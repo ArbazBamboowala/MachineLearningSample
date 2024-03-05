@@ -1,2 +1,1 @@
-I have created this application in my another branch on Blockchain.
-Also you an see it on my link: https://rebrand.ly/ArbazBlockchain
+I have created a Blockchain Application that will generate Hashes based on Sha-256 Algorithm
